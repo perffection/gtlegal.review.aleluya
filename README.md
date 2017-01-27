@@ -1,5 +1,11 @@
 # gtlegal-review-aleluya
 
+Dios es bueno, gracias sea a Cristo por Su bondad, y por todos Sus hermanos, por este proyecto y por Pedro Palma y el trabajo que esta dando
+
+
+
+
+### Emberjs
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
