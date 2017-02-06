@@ -309,7 +309,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("gtlegal-review-aleluya/app")["default"].create({"name":"gtlegal-review-aleluya","version":"0.0.0+9e17863e"});
+  require("gtlegal-review-aleluya/app")["default"].create({"name":"gtlegal-review-aleluya","version":"0.0.0+910b20df"});
 }
 
 /* jshint ignore:end */
